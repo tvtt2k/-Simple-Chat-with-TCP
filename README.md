@@ -1,7 +1,7 @@
 # -Simple-Chat-with-TCP
 
 Introduction
-Developed by Thiru Venkat Taral, this project implements a simple chat application using TCP/IP networking protocols with Python. It focuses on demonstrating real-time communication between a server and multiple clients, emphasizing the principles of socket programming and multithreading.
+This project implements a simple chat application using TCP/IP networking protocols with Python. It focuses on demonstrating real-time communication between a server and multiple clients, emphasizing the principles of socket programming and multithreading.
 
 Project Description
 The project consists of two main components:
